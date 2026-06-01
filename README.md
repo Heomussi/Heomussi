@@ -1,16 +1,20 @@
-## Hi there 👋
+# SungSoo In (Heomu)
 
-<!--
-**Heomussi/Heomussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Governance Architect
 
-Here are some ideas to get you started:
+Focused on authority boundary control, non-decision escalation design, and governance-layer architecture for high-risk AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Athena Governance Architecture
+- AI Governance
+- Authority Boundary Control
+- Non-Decision Escalation Design
+
+## Featured Project
+
+### Athena Governance Architecture
+
+Governance-layer architecture for authority boundary control in high-risk AI systems.
+
+Project Repository: [Athena Governance Architecture](https://github.com/Heomussi/Athena-Governance-Architecture)
